@@ -14,6 +14,6 @@
 ![](./screenshots/Search.png)
 ![](./screenshots/Container.png)
 ![](./screenshots/Clone_homework_repository.png)
-![](./screenshots/Cummit.png)
-![](./screenshots/Cummit_success.png)
+![](./screenshots/Commit.png)
+![](./screenshots/Commit_success.png)
 
