@@ -1,4 +1,3 @@
-# RPKS
 Гіт вже був становлений
 
 ![](./screenshots/Git.png)
